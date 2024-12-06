@@ -13,11 +13,11 @@ Men **Mirjahon Khayrullayev**, yosh va ijodkor dasturchiman! 🚀
 
 ---
 
-## 🔄 Loading-style Skill Bar
+## 🔄 Dinamik Skill Bar
 
-![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge)  
-![CSS](https://img.shields.io/badge/CSS-75%25-blue?style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/JavaScript-85%25-yellow?style=for-the-badge)
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Skill Bar Loading" width="300" />
+</div>
 
 ---
 
