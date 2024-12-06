@@ -1,5 +1,5 @@
 <!-- Profilning Asosiy Qismi -->
-<h1 align="center">Hi there 👋, I'm Mirjahon Khayrullayev</h1>
+<h1 align="center">Hi there 👋, I'm Khayrullayev Mirjahon</h1>
 <h3 align="center">A passionate developer exploring the art of coding 🌟</h3>
 
 <!-- Animatsiyali banner -->
@@ -28,7 +28,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- Max ishlatiladigan til: Ingliz tili -->
+  <img src="https://img.shields.io/badge/Most%20Used%20Language-English-blue?style=for-the-badge&logo=language&logoColor=white" alt="Most Used Language: English" />
 </p>
 
 ---
@@ -48,7 +49,8 @@
 
 <!-- Badge'lar -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively%20Coding-blue?style=for-the-badge&logo=github" alt="Status" />
+  <!-- Istalgan raqamlar bilan Status -->
+  <img src="https://img.shields.io/badge/Status-42-blue?style=for-the-badge&logo=github" alt="Status: 42" />
   <img src="https://img.shields.io/badge/Focus-FullStack-yellow?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Learning-Cloud%20Computing-green?style=for-the-badge" alt="Learning" />
 </p>
