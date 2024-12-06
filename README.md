@@ -11,5 +11,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 
 ### 📫 Murojaat:
-- Telegram: [@dev_assistant_bot](https://t.me/dev_assistant_bot)
+- Telegram: [https://t.me/khayrullayev2])
 - Email: your-email@example.com
