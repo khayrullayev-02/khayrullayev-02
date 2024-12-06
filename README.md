@@ -38,5 +38,4 @@ Hi, I'm **Mirjahon Khayrullayev**, a passionate **Frontend Developer** from Uzbe
 
 # 📞 Contact Me
 
-- 💬 **Twitter**: [@dev_assistant_bot](https://twitter.com/dev_assistant_bot)
-- 💼 **LinkedIn**: [Mirjahon Khayrullayev](https://www.linkedin.com/in/mirjahon-khayrullayev)
+- 💬 **telegram**: [my telegram ](https://t.me/khayrullayev2)
