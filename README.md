@@ -1,5 +1,5 @@
 <!-- Profilning Asosiy Qismi -->
-<h1 align="center">Hi there 👋, I'm [Mirjahon Khayrullayev]</h1>
+<h1 align="center">Hi there 👋, I'm Mirjahon Khayrulalyev</h1>
 <h3 align="center">A passionate developer exploring the art of coding 🌟</h3>
 
 <!-- Animatsiyali banner -->
@@ -51,4 +51,14 @@
   <img src="https://img.shields.io/badge/Status-Actively%20Coding-blue?style=for-the-badge&logo=github" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-FullStack-yellow?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Learning-Cloud%20Computing-green?style=for-the-badge" alt="Learning" />
+</p>
+
+---
+
+<!-- Telegram havolasi -->
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+  <a href="https://t.me/yourtelegramusername" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
