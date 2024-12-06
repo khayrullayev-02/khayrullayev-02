@@ -20,10 +20,23 @@
 <!-- Profil statistikasi -->
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-30-blue?style=for-the-badge&logo=github" alt="Repositories: 30" />
-  <img src="https://img.shields.io/badge/Commits-1200-purple?style=for-the-badge&logo=git" alt="Commits: 1200" />
-  <img src="https://img.shields.io/badge/Stars-150-yellow?style=for-the-badge&logo=github" alt="Stars: 150" />
-  <img src="https://img.shields.io/badge/Followers-100-green?style=for-the-badge&logo=github" alt="Followers: 100" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khayrullayev-02&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Aylana statistikalar -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Repositories-30-blue?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=darkblue" alt="Repositories: 30" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Commits-1200-purple?style=for-the-badge&logo=git&logoWidth=20&logoColor=white&labelColor=black&color=darkviolet" alt="Commits: 1200" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Stars-150-yellow?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=gold" alt="Stars: 150" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Followers-100-green?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=green" alt="Followers: 100" />
+  </a>
 </p>
 
 <p align="center">
