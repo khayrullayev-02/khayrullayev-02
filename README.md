@@ -1,27 +1,21 @@
-# 👋 Assalomu alaykum!
+# 💻 Mirjahon Khayrullayev  
+🚀 Innovatsion loyihalar yaratishga qiziquvchi yosh dasturchi.
 
-## 🌟 GitHub Statistikam:
+## 🛠️ Mening ko'nikmalarim:
+- **Programming Languages:** Python, JavaScript, C++
+- **Web Development:** HTML, CSS, React, Node.js
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, VS Code, Docker
+
+## 📈 Statistikalarim:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
 
----
+## 🌐 Ijtimoiy tarmoqlarim:
+- [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/YOUR_TELEGRAM)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+- [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/YOUR_USERNAME)
+- [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://instagram.com/YOUR_INSTAGRAM)
 
-## 🔥 Ketma-ketlik Statistikalari:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=highcontrast)
-
----
-
-## 🛠️ Ko'nikmalarim:
-![HTML5](https://img.shields.io/badge/Code-HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Style-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Code-Python-green?logo=python&logoColor=white)
-
----
-
-## 📊 Dasturlash Tillaridan Foydalanishim:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox)
-
----
-
-- Telegram: ([https://t.me/khayrullayev2])
-- Email: mirjahonoken222@gmail.com
+## 📬 Aloqa:
+📧 Email: mirjahon.khayrullayev@example.com  
