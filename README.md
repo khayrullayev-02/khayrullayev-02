@@ -37,7 +37,7 @@
 <!-- Dynamic WakaTime (Agar mavjud bo'lsa) -->
 <h3 align="center">Time Spent Coding:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="WakaTime Stats" />
+  <img src="https://t.me/khayrullayev2" alt="WakaTime Stats" />
 </p>
 
 ---
