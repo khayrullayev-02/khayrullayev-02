@@ -1,10 +1,54 @@
-# Project Status
+<!-- Profilning Asosiy Qismi -->
+<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate developer exploring the art of coding 🌟</h3>
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white)
-![Version](https://img.shields.io/badge/Version-2.1.0-blue?style=for-the-badge&logo=git&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge&logo=github&logoColor=white)
-![Build](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=appveyor&logoColor=white)
-![Contributors](https://img.shields.io/badge/Contributors-12-red?style=for-the-badge&logo=github&logoColor=white)
-![Last_Update](https://img.shields.io/badge/Last_Update-2024--12--06-blueviolet?style=for-the-badge&logo=git&logoColor=white)
-![Language](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white)
-![Stars](https://img.shields.io/badge/Stars-50-yellowgreen?style=for-the-badge&logo=star&logoColor=white)
+<!-- Animatsiyali banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="600" height="300"/>
+</p>
+
+---
+
+<!-- Texnologiyalar -->
+<h3 align="center">Technologies I work with:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,git,github,docker" alt="Technologies" />
+</p>
+
+---
+
+<!-- Profil statistikasi -->
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Dynamic WakaTime (Agar mavjud bo'lsa) -->
+<h3 align="center">Time Spent Coding:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="WakaTime Stats" />
+</p>
+
+---
+
+<!-- Iqtibos -->
+<p align="center">
+  <em>"Sabr - eng yaxshi asbobdir. Bu kod yozishda ham kerak!"</em>
+</p>
+
+<!-- Badge'lar -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively%20Coding-blue?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-FullStack-yellow?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Learning-Cloud%20Computing-green?style=for-the-badge" alt="Learning" />
+</p>
