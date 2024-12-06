@@ -20,11 +20,10 @@
 <!-- Profil statistikasi -->
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khayrullayev-02&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayrullayev-02&theme=radical" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Repositories-30-blue?style=for-the-badge&logo=github" alt="Repositories: 30" />
+  <img src="https://img.shields.io/badge/Commits-1200-purple?style=for-the-badge&logo=git" alt="Commits: 1200" />
+  <img src="https://img.shields.io/badge/Stars-150-yellow?style=for-the-badge&logo=github" alt="Stars: 150" />
+  <img src="https://img.shields.io/badge/Followers-100-green?style=for-the-badge&logo=github" alt="Followers: 100" />
 </p>
 
 <p align="center">
