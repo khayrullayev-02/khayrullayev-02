@@ -1,11 +1,15 @@
-# Mirjahon Khayrullayev's GitHub Stats
+# 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirjahonKh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&border_radius=10)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirjahonKh&layout=compact&theme=radical&border_radius=10)
+Hi, I'm **Mirjahon Khayrullayev**, a passionate **Frontend Developer** from Uzbekistan. I specialize in building responsive and interactive web applications using the latest web technologies.
+
+- 🔭 I’m currently working on **personal projects**.
+- 🌱 I’m constantly learning new technologies and improving my skills.
+- 💬 Ask me about **JavaScript**, **React**, **HTML5**, **CSS3**, **Node.js** and **more**.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/mirjahon-khayrullayev)** | **[Twitter](https://twitter.com/dev_assistant_bot)**
 
 ---
 
-# Skills & Technologies
+# 💻 Skills & Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-90%25-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-85%25-blue?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +21,14 @@
 
 ---
 
-# GitHub Activity
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirjahonKh&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirjahonKh&layout=compact&theme=tokyonight&border_radius=10)
+
+---
+
+# 🏆 GitHub Activity
 
 ![Forks](https://img.shields.io/github/forks/MirjahonKh?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/github/stars/MirjahonKh?style=for-the-badge&logo=github)
@@ -25,15 +36,7 @@
 
 ---
 
-# Frontend Development Stats
+# 📞 Contact Me
 
-![Code Quality](https://img.shields.io/badge/Code_Quality-A%2B-green?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance-Excellent-green?style=for-the-badge)
-![Projects Completed](https://img.shields.io/badge/Projects_Completed-15%2B-blue?style=for-the-badge)
-
----
-
-# Connect with Me
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Mirjahon%20Khayrullayev-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-@dev_assistant_bot-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+- 💬 **Twitter**: [@dev_assistant_bot](https://twitter.com/dev_assistant_bot)
+- 💼 **LinkedIn**: [Mirjahon Khayrullayev](https://www.linkedin.com/in/mirjahon-khayrullayev)
