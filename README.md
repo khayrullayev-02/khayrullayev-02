@@ -1,46 +1,88 @@
-# 🌟 Assalomu alaykum!  
-Men **Mirjahon Khayrullayev**, yosh va ijodkor dasturchiman! 🚀  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Skill Bar</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #1e1e2f;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
 
----
+    .skill-container {
+      display: flex;
+      gap: 20px;
+    }
 
-## 🛠️ Mening Ko'nikmalarim
+    .circle {
+      position: relative;
+      width: 120px;
+      height: 120px;
+      background: #333;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</div>
+    .circle::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: conic-gradient(
+        green calc(var(--progress) * 1%), 
+        red calc(var(--progress) * 1%), 
+        gray 0
+      );
+      border-radius: 50%;
+      z-index: 1;
+    }
 
----
+    .circle-text {
+      position: relative;
+      z-index: 2;
+      color: white;
+      font-size: 16px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="skill-container">
+    <div class="circle" style="--progress: 75;">
+      <div class="circle-text">75%</div>
+    </div>
+    <div class="circle" style="--progress: 40;">
+      <div class="circle-text">40%</div>
+    </div>
+  </div>
 
-## 🔄 Dinamik Skill Bar
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Skill Bar Loading" width="300" />
-</div>
-
----
-
-## 🌐 Ijtimoiy Tarmoqlarim
-
-<div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-## 📊 Statistikalarim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
+  <script>
+    // JavaScript bilan animatsiya
+    const circles = document.querySelectorAll('.circle');
+    circles.forEach((circle) => {
+      let progress = 0;
+      const targetProgress = parseInt(circle.style.getPropertyValue('--progress'));
+      const interval = setInterval(() => {
+        if (progress >= targetProgress) {
+          clearInterval(interval);
+        } else {
+          progress++;
+          circle.style.setProperty('--progress', progress);
+          circle.querySelector('.circle-text').innerText = `${progress}%`;
+        }
+      }, 20);
+    });
+  </script>
+</body>
+</html>
