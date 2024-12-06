@@ -20,11 +20,11 @@
 <!-- Profil statistikasi -->
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khayrullayev-02&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khayrullayev-02&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 <!-- Dynamic WakaTime (Agar mavjud bo'lsa) -->
 <h3 align="center">Time Spent Coding:</h3>
 <p align="center">
-  <img src="https://t.me/khayrullayev2" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khayrullayev-02&theme=radical" alt="WakaTime Stats" />
 </p>
 
 ---
