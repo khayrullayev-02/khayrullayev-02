@@ -1,5 +1,5 @@
 <!-- Profilning Asosiy Qismi -->
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm [Mirjahon Khayrullayev]</h1>
 <h3 align="center">A passionate developer exploring the art of coding 🌟</h3>
 
 <!-- Animatsiyali banner -->
