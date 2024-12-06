@@ -12,4 +12,4 @@
 
 ### 📫 Murojaat:
 - Telegram: [https://t.me/khayrullayev2])
-- Email: your-email@example.com
+- Email: mirjahonoken222@gmail.com
