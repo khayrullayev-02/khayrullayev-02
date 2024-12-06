@@ -23,5 +23,5 @@
 
 ---
 
-- Telegram: [https://t.me/khayrullayev2])
+- Telegram: ([https://t.me/khayrullayev2])
 - Email: mirjahonoken222@gmail.com
