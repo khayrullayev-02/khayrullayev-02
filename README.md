@@ -3,86 +3,117 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Skill Bar</title>
+  <title>Animated Skill Bars</title>
   <style>
+    /* Asosiy sozlashlar */
     body {
-      font-family: Arial, sans-serif;
-      background-color: #1e1e2f;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(135deg, #1e1e2f, #252537);
       color: white;
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      flex-direction: column;
+      min-height: 100vh;
       margin: 0;
     }
 
-    .skill-container {
-      display: flex;
-      gap: 20px;
+    h1 {
+      margin-bottom: 20px;
+      font-size: 2rem;
     }
 
-    .circle {
+    .skills-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    }
+
+    .skill {
       position: relative;
-      width: 120px;
-      height: 120px;
-      background: #333;
+      width: 150px;
+      height: 150px;
+    }
+
+    .skill .outer-circle {
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      background: conic-gradient(
+        #ff6b6b calc(var(--progress) * 1%),
+        #ddd calc(var(--progress) * 1%)
+      );
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      animation: rotate 4s linear infinite;
+    }
+
+    @keyframes rotate {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+
+    .skill .inner-circle {
+      width: 90%;
+      height: 90%;
+      background: #252537;
       border-radius: 50%;
       display: flex;
       justify-content: center;
       align-items: center;
-    }
-
-    .circle::before {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: conic-gradient(
-        green calc(var(--progress) * 1%), 
-        red calc(var(--progress) * 1%), 
-        gray 0
-      );
-      border-radius: 50%;
-      z-index: 1;
-    }
-
-    .circle-text {
-      position: relative;
+      flex-direction: column;
       z-index: 2;
-      color: white;
-      font-size: 16px;
+    }
+
+    .skill .inner-circle span {
+      font-size: 1.5rem;
       font-weight: bold;
+    }
+
+    .skill .inner-circle p {
+      font-size: 0.8rem;
+      margin-top: 5px;
     }
   </style>
 </head>
 <body>
-  <div class="skill-container">
-    <div class="circle" style="--progress: 75;">
-      <div class="circle-text">75%</div>
+  <h1>🔄 Mening Skill Barlarim</h1>
+  <div class="skills-container">
+    <!-- Skill 1 -->
+    <div class="skill" style="--progress: 80;">
+      <div class="outer-circle">
+        <div class="inner-circle">
+          <span>80%</span>
+          <p>HTML</p>
+        </div>
+      </div>
     </div>
-    <div class="circle" style="--progress: 40;">
-      <div class="circle-text">40%</div>
+
+    <!-- Skill 2 -->
+    <div class="skill" style="--progress: 70;">
+      <div class="outer-circle">
+        <div class="inner-circle">
+          <span>70%</span>
+          <p>CSS</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Skill 3 -->
+    <div class="skill" style="--progress: 60;">
+      <div class="outer-circle">
+        <div class="inner-circle">
+          <span>60%</span>
+          <p>JavaScript</p>
+        </div>
+      </div>
     </div>
   </div>
-
-  <script>
-    // JavaScript bilan animatsiya
-    const circles = document.querySelectorAll('.circle');
-    circles.forEach((circle) => {
-      let progress = 0;
-      const targetProgress = parseInt(circle.style.getPropertyValue('--progress'));
-      const interval = setInterval(() => {
-        if (progress >= targetProgress) {
-          clearInterval(interval);
-        } else {
-          progress++;
-          circle.style.setProperty('--progress', progress);
-          circle.querySelector('.circle-text').innerText = `${progress}%`;
-        }
-      }, 20);
-    });
-  </script>
 </body>
 </html>
