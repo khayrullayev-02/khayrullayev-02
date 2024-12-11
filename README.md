@@ -1,82 +1,60 @@
-<!-- Profilning Asosiy Qismi -->
-<h1 align="center">Hi there 👋, I'm Khayrullayev Mirjahon</h1>
-<h3 align="center">A passionate developer exploring the art of coding 🌟</h3>
+# 🌟 Salom, men Mirjahon Khayrullayev!
 
-<!-- Animatsiyali banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="600" height="300"/>
+![GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+> 13 yoshli dasturchi, texnologiyaga qiziqaman va o'rganishni yaxshi ko'raman! 🚀
+
+---
+
+## 🎯 Men haqimda:
+- 🔭 **Hozirda ishlamoqda**: Telegram botlar va kichik dasturlar yaratish.
+- 🌱 **O'rganayotganim**: Python, JavaScript va sun'iy intellekt.
+- ⚡ **Qiziqarli fakt**: Yoshligimdan texnologiyaga qiziqaman va katta maqsadlar sari intilaman.
+
+---
+
+## 🛠 Texnologiyalar va asboblar:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-<!-- Texnologiyalar -->
-<h3 align="center">Technologies I work with:</h3>
+## 📊 Statistika:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,git,github,docker" alt="Technologies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mirjahon_022&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirjahon_022&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirjahon_022&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-<!-- Profil statistikasi -->
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khayrullayev-02&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 🎨 Dizayn va animatsiyalar:
 
-<p align="center">
-  <!-- Aylana statistikalar -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/Repositories-30-blue?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=darkblue" alt="Repositories: 30" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Commits-1200-purple?style=for-the-badge&logo=git&logoWidth=20&logoColor=white&labelColor=black&color=darkviolet" alt="Commits: 1200" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Stars-150-yellow?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=gold" alt="Stars: 150" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Followers-100-green?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=green" alt="Followers: 100" />
-  </a>
-</p>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" align="right" />
 
-<p align="center">
-  <!-- Max ishlatiladigan til: Ingliz tili -->
-  <img src="https://img.shields.io/badge/Most%20Used%20Language-English-blue?style=for-the-badge&logo=language&logoColor=white" alt="Most Used Language: English" />
-</p>
+### Mening qiziqishlarim:
+- 📱 Mobil dasturlar yaratish
+- 🤖 Sun'iy intellekt bilan ishlash
+- 🌐 Veb saytlar va botlar yaratish
 
 ---
 
-<!-- Dynamic WakaTime (Agar mavjud bo'lsa) -->
-<h3 align="center">Time Spent Coding:</h3>
+## 🌐 Bog'lanish:
+
+- 📫 Telegram: [@dev_assistant_bot](https://t.me/dev_assistant_bot)
+- 🌐 GitHub: [mirjahon_022](https://github.com/mirjahon_022)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khayrullayev-02&theme=radical" alt="WakaTime Stats" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mirjahon_022.mirjahon_022" alt="Visitors" />
 </p>
-
----
-
-<!-- Iqtibos -->
-<p align="center">
-  <em>"Sabr - eng yaxshi asbobdir. Bu kod yozishda ham kerak!"</em>
-</p>
-
-<!-- Badge'lar -->
-<p align="center">
-  <!-- Istalgan raqamlar bilan Status -->
-  <img src="https://img.shields.io/badge/Status-42-blue?style=for-the-badge&logo=github" alt="Status: 42" />
-  <img src="https://img.shields.io/badge/Focus-FullStack-yellow?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Learning-Cloud%20Computing-green?style=for-the-badge" alt="Learning" />
-</p>
-
----
-
-<!-- Telegram havolasi -->
-<h3 align="center">Let's Connect!</h3>
-<p align="center">
-  <a href="https://t.me/Mirjahon022" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
-Giphy (https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-Woman Coding GIF by Pluralsight - Find & Share on GIPHY
-Discover & share this Woman Coding GIF by Pluralsight with everyone you know. GIPHY is how you search, share, discover, and create GIFs.
