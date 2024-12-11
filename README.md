@@ -1,40 +1,82 @@
-# 🌟 Salom, men Mirjahon Khayrullayev!
+<!-- Profilning Asosiy Qismi -->
+<h1 align="center">Hi there 👋, I'm Khayrullayev Mirjahon</h1>
+<h3 align="center">A passionate developer exploring the art of coding 🌟</h3>
 
-> 13 yoshli dasturchi, texnologiyaga qiziqaman va o'rganishni yaxshi ko'raman! 🚀
-
----
-
-## 📌 Mening faoliyatim
-- 🔭 Hozirda: Telegram botlar yaratish ustida ishlayapman.
-- 🌱 O'rganayotganim: Python va JavaScript.
-- 🎯 Maqsadlarim: Katta loyihalar yaratish va jahon miqyosidagi dasturchi bo'lish.
+<!-- Animatsiyali banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="600" height="300"/>
+</p>
 
 ---
 
-## 🛠 Texnologiyalar va asboblar
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<!-- Texnologiyalar -->
+<h3 align="center">Technologies I work with:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,react,git,github,docker" alt="Technologies" />
+</p>
 
 ---
 
-## 📊 Mening statistikam
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mirjahon_022&show_icons=true&theme=radical)
+<!-- Profil statistikasi -->
+<h3 align="center">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khayrullayev-02&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirjahon_022&layout=compact&theme=radical)
+<p align="center">
+  <!-- Aylana statistikalar -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Repositories-30-blue?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=darkblue" alt="Repositories: 30" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Commits-1200-purple?style=for-the-badge&logo=git&logoWidth=20&logoColor=white&labelColor=black&color=darkviolet" alt="Commits: 1200" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Stars-150-yellow?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=gold" alt="Stars: 150" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Followers-100-green?style=for-the-badge&logo=github&logoWidth=20&logoColor=white&labelColor=black&color=green" alt="Followers: 100" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Max ishlatiladigan til: Ingliz tili -->
+  <img src="https://img.shields.io/badge/Most%20Used%20Language-English-blue?style=for-the-badge&logo=language&logoColor=white" alt="Most Used Language: English" />
+</p>
 
 ---
 
-## 🎨 Profilim uchun banner
-<img src="https://raw.githubusercontent.com/mirjahon_022/mirjahon_022/main/banner.png" alt="banner" />
+<!-- Dynamic WakaTime (Agar mavjud bo'lsa) -->
+<h3 align="center">Time Spent Coding:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khayrullayev-02&theme=radical" alt="WakaTime Stats" />
+</p>
 
 ---
 
-## 💬 Bog'lanish
-- 🌐 [Portfolio veb-saytim](#) *(Tez orada)*
-- 📫 Telegram: [@dev_assistant_bot](https://t.me/dev_assistant_bot)
+<!-- Iqtibos -->
+<p align="center">
+  <em>"Sabr - eng yaxshi asbobdir. Bu kod yozishda ham kerak!"</em>
+</p>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mirjahon_022.mirjahon_022)
+<!-- Badge'lar -->
+<p align="center">
+  <!-- Istalgan raqamlar bilan Status -->
+  <img src="https://img.shields.io/badge/Status-42-blue?style=for-the-badge&logo=github" alt="Status: 42" />
+  <img src="https://img.shields.io/badge/Focus-FullStack-yellow?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Learning-Cloud%20Computing-green?style=for-the-badge" alt="Learning" />
+</p>
+
+---
+
+<!-- Telegram havolasi -->
+<h3 align="center">Let's Connect!</h3>
+<p align="center">
+  <a href="https://t.me/Mirjahon022" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
+Giphy (https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+Woman Coding GIF by Pluralsight - Find & Share on GIPHY
+Discover & share this Woman Coding GIF by Pluralsight with everyone you know. GIPHY is how you search, share, discover, and create GIFs.
