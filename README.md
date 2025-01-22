@@ -87,7 +87,7 @@
 <!-- Telegram havolasi -->
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-  <a href="https://t.me/Mirjahon022" target="_blank">
+  <a href="https://t.me/Timii_Mirjahon" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
